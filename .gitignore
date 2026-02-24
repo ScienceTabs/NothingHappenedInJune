@@ -1,34 +1,16 @@
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
-
-#################################
-# Visual Studio Generated Files #
-#################################
-# Cache Directory
-.vs
-# User Specific Files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-# CPP Cache Files
-*.VC.db
-*.opendb
-*.opensdf
-*.sdf
-# Solution Files
-*.sln
-# VSCode Cache Directory
+Binaries
+DerivedDataCache
+Intermediate
+Saved
 .vscode
-# VSCode History Files
-**/.history
-
-#################################
-# Miscellaneous Generated Files #
-#################################
-# ADD AS NEED BE
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+Saved/
+Config/User*
